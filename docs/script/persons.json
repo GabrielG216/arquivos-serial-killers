@@ -3,246 +3,246 @@
     {
       "nome": "Ted Bundy",
       "nascimento": "Vermont, USA",
-      "imagem1": "../script/img-killers-reais/ted-bundy-img1.jpg",
-      "imagem2": "../script/img-killers-reais/ted-bundy-img2.jpg",
+      "imagem1": "./script/img-killers-reais/ted-bundy-img1.jpg",
+      "imagem2": "./script/img-killers-reais/ted-bundy-img2.jpg",
       "descricao": "Ted Bundy era considerado charmoso, inteligente e articulado, o que contrastava com seus crimes brutais. Atuou principalmente durante os anos 1970, sequestrando, estuprando e assassinando mulheres jovens. Bundy costumava fingir estar ferido para ganhar a confiança das vítimas. Após capturá-las, as levava para locais isolados, onde cometia os assassinatos. Ele mantinha lembranças de suas vítimas, como cabeças decapitadas, que guardava como troféus. Mesmo preso, conseguiu escapar duas vezes da prisão, continuando a matar. Foi executado na cadeira elétrica em 1989. Estima-se que tenha assassinado mais de 30 pessoas."
     },
     {
       "nome": "Jeffrey Dahmer",
       "nascimento": "Wisconsin, USA",
-      "imagem1": "../script/img-killers-reais/jeffrey-dahmer-1.jpg",
-      "imagem2": "../script/img-killers-reais/jeffrey-dahmer-2.jpg",
+      "imagem1": "./script/img-killers-reais/jeffrey-dahmer-1.jpg",
+      "imagem2": "./script/img-killers-reais/jeffrey-dahmer-2.jpg",
       "descricao": "Jeffrey Dahmer é um dos serial killers mais conhecidos da história. Desde a adolescência, demonstrava comportamentos estranhos, isolamento social e interesse por animais mortos. Ainda jovem, começou a fantasiar sobre controle absoluto sobre outras pessoas. Seu primeiro assassinato ocorreu em 1978, quando tinha apenas 18 anos. Ao longo dos anos, Dahmer matou 17 homens e adolescentes, geralmente atraindo suas vítimas para seu apartamento com promessas de dinheiro, bebida ou sessões de fotos. Lá, ele as dopava, abusava sexualmente e as assassinava por estrangulamento. Posteriormente, praticava necrofilia e, em vários casos, canibalismo."
     },
     {
       "nome": "John Wayne Gacy",
       "nascimento": "Illinois, USA",
-      "imagem1": "../script/img-killers-reais/john-wayne-gacy-1.jpg",
-      "imagem2": "../script/img-killers-reais/john-wayne-gacy-2.jpg",
+      "imagem1": "./script/img-killers-reais/john-wayne-gacy-1.jpg",
+      "imagem2": "./script/img-killers-reais/john-wayne-gacy-2.jpg",
       "descricao": "Conhecido como “Palhaço Assassino”, Gacy levava uma vida aparentemente normal como empresário e voluntário em eventos comunitários, onde se vestia de palhaço para entreter crianças. Entre 1972 e 1978, assassinou ao menos 33 jovens do sexo masculino. Ele atraía as vítimas para sua casa, onde as estuprava, torturava e estrangulava. Muitos corpos foram enterrados no porão da residência. Gacy foi condenado à morte e executado em 1994. Seu caso se tornou um símbolo do perigo oculto por trás de aparências respeitáveis."
     },
     {
       "nome": "Richard Ramirez",
       "nascimento": "Texas, USA",
-      "imagem1": "../script/img-killers-reais/richard-ramirez-1.jpg",
-      "imagem2": "../script/img-killers-reais/richard-ramirez-2.jpg",
+      "imagem1": "./script/img-killers-reais/richard-ramirez-1.jpg",
+      "imagem2": "./script/img-killers-reais/richard-ramirez-2.jpg",
       "descricao": "Apelidado de “Night Stalker”, Ramirez aterrorizou a Califórnia nos anos 1980. Seus crimes incluíam invasões domiciliares, estupros, torturas e assassinatos. Ele não seguia um padrão específico de vítimas, atacando pessoas de diferentes idades e gêneros. Ramirez demonstrava fascínio por ocultismo e frequentemente deixava símbolos satânicos nas cenas dos crimes. Foi capturado em 1985, condenado à morte e faleceu no corredor da morte em 2013."
     },
     {
       "nome": "Aileen Wuornos",
       "nascimento": "Michigan, USA",
-      "imagem1": "../script/img-killers-reais/aileen-wuornos-1.jpg",
-      "imagem2": "../script/img-killers-reais/aileen-wuornos-2.jpg",
+      "imagem1": "./script/img-killers-reais/aileen-wuornos-1.jpg",
+      "imagem2": "./script/img-killers-reais/aileen-wuornos-2.jpg",
       "descricao": "Aileen teve uma infância extremamente abusiva e instável. Viveu grande parte da vida em situação de rua e trabalhou como prostituta. Entre 1989 e 1990, matou sete homens. Alegava que os assassinatos ocorreram em legítima defesa, após tentativas de abuso sexual. Foi condenada à morte e executada em 2002. Seu caso levantou debates sobre abuso, saúde mental e violência contra mulheres."
     },
     {
       "nome": "Gary Ridgway",
       "nascimento": "Utah, USA",
-      "imagem1": "../script/img-killers-reais/gary-ridgway-1.jpg",
-      "imagem2": "../script/img-killers-reais/gary-ridgway-2.jpg",
+      "imagem1": "./script/img-killers-reais/gary-ridgway-1.jpg",
+      "imagem2": "./script/img-killers-reais/gary-ridgway-2.jpg",
       "descricao": "Conhecido como “Green River Killer”, Ridgway matou dezenas de mulheres, principalmente prostitutas e jovens vulneráveis. Seus crimes começaram nos anos 1980. Ele confessou 49 assassinatos, mas acredita-se que o número real seja maior. Foi condenado à prisão perpétua sem possibilidade de liberdade condicional."
     },
     {
       "nome": "Ed Gein",
       "nascimento": "Wisconsin, USA",
-      "imagem1": "../script/img-killers-reais/ed-gein-1.jpg",
-      "imagem2": "../script/img-killers-reais/ed-gein-2.jpg",
+      "imagem1": "./script/img-killers-reais/ed-gein-1.jpg",
+      "imagem2": "./script/img-killers-reais/ed-gein-2.jpg",
       "descricao": "Ed Gein não foi um serial killer tradicional em quantidade, mas seus crimes foram extremamente perturbadores. Ele exumava cadáveres de cemitérios e utilizava partes dos corpos para fabricar objetos domésticos, como máscaras e roupas. Gein matou pelo menos duas mulheres. Foi considerado mentalmente incapaz e internado em hospital psiquiátrico. Inspirou diversos personagens da cultura pop."
     },
     {
       "nome": "Dennis Rader",
       "nascimento": "Kansas, USA",
-      "imagem1": "../script/img-killers-reais/dennis-rader-1.jpg",
-      "imagem2": "../script/img-killers-reais/dennis-rader-2.jpg",
+      "imagem1": "./script/img-killers-reais/dennis-rader-1.jpg",
+      "imagem2": "./script/img-killers-reais/dennis-rader-2.jpg",
       "descricao": "Rader se autodenominava BTK (“Bind, Torture, Kill”). Entre 1974 e 1991, matou 10 pessoas. Gostava de provocar a polícia enviando cartas descrevendo seus crimes. Viveu por décadas como cidadão comum, com família e emprego estável. Foi preso em 2005 e condenado à prisão perpétua."
     },
     {
       "nome": "Albert Fish",
       "nascimento": "Washington, USA",
-      "imagem1": "../script/img-killers-reais/albert-fish-1.jpg",
-      "imagem2": "../script/img-killers-reais/albert-fish-2.jpg",
+      "imagem1": "./script/img-killers-reais/albert-fish-1.jpg",
+      "imagem2": "./script/img-killers-reais/albert-fish-2.jpg",
       "descricao": "Albert Fish era conhecido por extrema crueldade e distúrbios mentais severos. Sequestrava, torturava e assassinava crianças, praticando canibalismo. Enviava cartas às famílias descrevendo os crimes. Foi condenado à morte e executado em 1936."
     },
     {
       "nome": "Andrei Chikatilo",
       "nascimento": "Yabluchne, Ucrânia",
-      "imagem1": "../script/img-killers-reais/andrei-chikatilo-1.jpg",
-      "imagem2": "../script/img-killers-reais/andrei-chikatilo-2.jpg",
+      "imagem1": "./script/img-killers-reais/andrei-chikatilo-1.jpg",
+      "imagem2": "./script/img-killers-reais/andrei-chikatilo-2.jpg",
       "descricao": "Chikatilo assassinou mais de 50 mulheres e crianças entre 1978 e 1990. Seus crimes envolviam estupro, mutilação e canibalismo. A investigação foi prejudicada por falhas do sistema soviético. Foi executado em 1994."
     },
     {
       "nome": "Charles Manson",
       "nascimento": "Ohio, USA",
-      "imagem1": "../script/img-killers-reais/charles-manson-1.jpg",
-      "imagem2": "../script/img-killers-reais/charles-manson-2.jpg",
+      "imagem1": "./script/img-killers-reais/charles-manson-1.jpg",
+      "imagem2": "./script/img-killers-reais/charles-manson-2.jpg",
       "descricao": "Charles Manson não matou diretamente a maioria de suas vítimas, mas foi responsável por liderar um culto conhecido como “Família Manson”, que executou assassinatos brutais no final da década de 1960. Manson reunia jovens vulneráveis, usando drogas, manipulação psicológica e discursos sobre apocalipse racial para controlá-los. Ele se apresentava como uma figura messiânica e convencia seus seguidores a cometerem crimes em seu nome."
     },
     {
       "nome": "Pedro Rodrigues Filho",
       "nascimento": "Minas Gerais, Brasil",
-      "imagem1": "../script/img-killers-reais/pedrinho-matador-1.jpg",
-      "imagem2": "../script/img-killers-reais/pedrinho-matador-2.jpg",
+      "imagem1": "./script/img-killers-reais/pedrinho-matador-1.jpg",
+      "imagem2": "./script/img-killers-reais/pedrinho-matador-2.jpg",
       "descricao": "Conhecido como “Pedrinho Matador”, começou a matar ainda adolescente. Alegava eliminar criminosos e estupradores. Confessou mais de 70 assassinatos. Passou grande parte da vida preso e se tornou figura conhecida na mídia brasileira. Foi assassinado em 2023."
     },
     {
     "nome": "Jack the Ripper",
     "nascimento": "Desconhecido, Inglaterra",
-    "imagem1": "../script/img-killers-reais/jack-the-ripper-1.jpg",
-    "imagem2": "../script/img-killers-reais/jack-the-ripper-2.jpg",
+    "imagem1": "./script/img-killers-reais/jack-the-ripper-1.jpg",
+    "imagem2": "./script/img-killers-reais/jack-the-ripper-2.jpg",
     "descricao": "Jack, o Estripador, foi um assassino em série não identificado que atuou no bairro de Whitechapel, em Londres, no ano de 1888. Ele assassinava principalmente mulheres que trabalhavam como prostitutas, realizando mutilações extremamente violentas que chocaram a sociedade da época. O caso ganhou enorme repercussão na mídia, especialmente por cartas enviadas à imprensa supostamente assinadas pelo assassino. Apesar de inúmeras investigações e teorias ao longo de mais de um século, sua verdadeira identidade nunca foi confirmada, tornando-o um dos maiores mistérios da história criminal."
   },
   {
     "nome": "J. R. Oppenheimer",
     "nascimento": "New York, USA",
-    "imagem1": "../script/img-killers-reais/oppenheimer-1.jpg",
-    "imagem2": "../script/img-killers-reais/oppenheimer-2.jpg",
+    "imagem1": "./script/img-killers-reais/oppenheimer-1.jpg",
+    "imagem2": "./script/img-killers-reais/oppenheimer-2.jpg",
     "descricao": "J. Robert Oppenheimer foi um físico teórico norte-americano, conhecido como o 'pai da bomba atômica'. Durante a Segunda Guerra Mundial, liderou o Projeto Manhattan, responsável pelo desenvolvimento das primeiras armas nucleares utilizadas pelos Estados Unidos contra o Japão em 1945. Embora não tenha sido um serial killer, sua participação na criação de uma arma de destruição em massa o colocou no centro de intensos debates éticos e morais. Após a guerra, demonstrou arrependimento e passou a defender maior controle sobre armas nucleares."
   },
   {
     "nome": "Suzane von Richthofen",
     "nascimento": "São Paulo, Brasil",
-    "imagem1": "../script/img-killers-reais/suzane-von-richthofen-1.jpg",
-    "imagem2": "../script/img-killers-reais/suzane-von-richthofen-2.jpg",
+    "imagem1": "./script/img-killers-reais/suzane-von-richthofen-1.jpg",
+    "imagem2": "./script/img-killers-reais/suzane-von-richthofen-2.jpg",
     "descricao": "Suzane von Richthofen ficou conhecida no Brasil por participar do assassinato dos próprios pais, Manfred e Marísia von Richthofen, em 2002. O crime foi planejado junto com seu então namorado, Daniel Cravinhos, e o irmão dele. O caso chocou o país pela frieza e pela motivação financeira envolvida. Suzane foi condenada por homicídio qualificado e cumpriu pena em regime fechado antes de progredir para o regime semiaberto. Embora seja amplamente associada a crimes de grande repercussão, não é classificada como serial killer, pois participou de um único crime duplo."
   },
     {
       "nome": "David Berkowitz",
       "nascimento": "New York, USA",
-      "imagem1": "../script/img-killers-reais/david-berkowitz-1.jpg",
-      "imagem2": "../script/img-killers-reais/david-berkowitz-2.png",
+      "imagem1": "./script/img-killers-reais/david-berkowitz-1.jpg",
+      "imagem2": "./script/img-killers-reais/david-berkowitz-2.png",
       "descricao": "Conhecido como “Son of Sam”, Berkowitz aterrorizou Nova York entre 1976 e 1977. Ele atacava principalmente casais e mulheres jovens utilizando um revólver calibre .44. Enviava cartas à imprensa zombando da polícia e alegando receber ordens demoníacas para matar. Foi preso em 1977 e condenado a múltiplas penas de prisão perpétua."
     },
     {
       "nome": "H.H. Holmes",
       "nascimento": "New Hampshire, USA",
-      "imagem1": "../script/img-killers-reais/hh-holmes-1.jpg",
-      "imagem2": "../script/img-killers-reais/hh-holmes-2.jpg",
+      "imagem1": "./script/img-killers-reais/hh-holmes-1.jpg",
+      "imagem2": "./script/img-killers-reais/hh-holmes-2.jpg",
       "descricao": "Considerado um dos primeiros serial killers dos Estados Unidos, Holmes construiu um hotel em Chicago com passagens secretas e quartos à prova de som. Ele atraía principalmente mulheres durante a Feira Mundial de 1893 e as assassinava dentro do prédio. Foi executado em 1896."
     },
     {
       "nome": "Robert Pickton",
       "nascimento": "British Columbia, Canada",
-      "imagem1": "../script/img-killers-reais/robert-pickton-1.jpg",
-      "imagem2": "../script/img-killers-reais/robert-pickton-2.jpg",
+      "imagem1": "./script/img-killers-reais/robert-pickton-1.jpg",
+      "imagem2": "./script/img-killers-reais/robert-pickton-2.jpg",
       "descricao": "Criador de porcos canadense que assassinou dezenas de mulheres, muitas delas trabalhadoras sexuais. Restos mortais foram encontrados em sua fazenda. Foi condenado à prisão perpétua."
     },
     {
       "nome": "Dennis Nilsen",
       "nascimento": "Scotland, UK",
-      "imagem1": "../script/img-killers-reais/dennis-nilsen-1.jpg",
-      "imagem2": "../script/img-killers-reais/dennis-nilsen-2.jpg",
+      "imagem1": "./script/img-killers-reais/dennis-nilsen-1.jpg",
+      "imagem2": "./script/img-killers-reais/dennis-nilsen-2.jpg",
       "descricao": "Entre 1978 e 1983, Nilsen matou ao menos 12 jovens em Londres. Ele atraía homens para seu apartamento, onde os estrangulava e mantinha os corpos por dias antes de descartá-los. Foi condenado à prisão perpétua."
     },
     {
       "nome": "Alexander Pichushkin",
       "nascimento": "Moscow, Russia",
-      "imagem1": "../script/img-killers-reais/alexander-pichushkin-1.jpg",
-      "imagem2": "../script/img-killers-reais/alexander-pichushkin-2.jpg",
+      "imagem1": "./script/img-killers-reais/alexander-pichushkin-1.jpg",
+      "imagem2": "./script/img-killers-reais/alexander-pichushkin-2.jpg",
       "descricao": "Conhecido como “Assassino do Xadrez”, desejava matar 64 pessoas, uma para cada casa do tabuleiro. Matou pelo menos 49 vítimas em Moscou. Foi condenado à prisão perpétua."
     },
     {
       "nome": "Tsutomu Miyazaki",
       "nascimento": "Tokyo, Japão",
-      "imagem1": "../script/img-killers-reais/tsutomu-miyazaki-1.jpg",
-      "imagem2": "../script/img-killers-reais/tsutomu-miyazaki-2.jpg",
+      "imagem1": "./script/img-killers-reais/tsutomu-miyazaki-1.jpg",
+      "imagem2": "./script/img-killers-reais/tsutomu-miyazaki-2.jpg",
       "descricao": "Chamado de “Otaku Killer”, sequestrou e assassinou quatro meninas no Japão entre 1988 e 1989. Seus crimes incluíam mutilação e envio de cartas às famílias. Foi executado em 2008."
     },
     {
       "nome": "Peter Kürten",
       "nascimento": "Cologne, Alemanha",
-      "imagem1": "../script/img-killers-reais/peter-kurten-1.jpg",
-      "imagem2": "../script/img-killers-reais/peter-kurten-2.jpg",
+      "imagem1": "./script/img-killers-reais/peter-kurten-1.jpg",
+      "imagem2": "./script/img-killers-reais/peter-kurten-2.jpg",
       "descricao": "Conhecido como “Vampiro de Düsseldorf”, matou várias vítimas na década de 1920, demonstrando prazer com o sofrimento alheio. Foi executado por guilhotina em 1931."
     },
     {
       "nome": "Fritz Haarmann",
       "nascimento": "Hannover, Alemanha",
-      "imagem1": "../script/img-killers-reais/fritz-haarmann-1.jpg",
-      "imagem2": "../script/img-killers-reais/fritz-haarmann-2.jpg",
+      "imagem1": "./script/img-killers-reais/fritz-haarmann-1.jpg",
+      "imagem2": "./script/img-killers-reais/fritz-haarmann-2.jpg",
       "descricao": "Atuou após a Primeira Guerra Mundial, assassinando jovens rapazes. Mutilava os corpos e vendia carne no mercado negro. Foi executado em 1925."
     },
     {
       "nome": "Yang Xinhai",
       "nascimento": "Henan, China",
-      "imagem1": "../script/img-killers-reais/yang-xinhai-1.jpg",
-      "imagem2": "../script/img-killers-reais/yang-xinhai-2.png",
+      "imagem1": "./script/img-killers-reais/yang-xinhai-1.jpg",
+      "imagem2": "./script/img-killers-reais/yang-xinhai-2.png",
       "descricao": "Entre 2000 e 2003, matou 67 pessoas invadindo casas durante a noite. Usava ferramentas como machados e barras de ferro. Foi executado em 2004."
     },
     {
       "nome": "Ian Brady",
       "nascimento": "Glasgow, Escócia",
-      "imagem1": "../script/img-killers-reais/ian-brady-1.jpg",
-      "imagem2": "../script/img-killers-reais/ian-brady-2.jpg",
+      "imagem1": "./script/img-killers-reais/ian-brady-1.jpg",
+      "imagem2": "./script/img-killers-reais/ian-brady-2.jpg",
       "descricao": "Com Myra Hindley, assassinou cinco crianças nos anos 1960 no Reino Unido. Os corpos foram enterrados em áreas conhecidas como Moors. Morreu sob custódia em hospital prisional."
     },
     {
       "nome": "Myra Hindley",
       "nascimento": "Manchester, Inglaterra",
-      "imagem1": "../script/img-killers-reais/myra-hindley-1.jpg",
-      "imagem2": "../script/img-killers-reais/myra-hindley-2.jpg",
+      "imagem1": "./script/img-killers-reais/myra-hindley-1.jpg",
+      "imagem2": "./script/img-killers-reais/myra-hindley-2.jpg",
       "descricao": "Parceira de Ian Brady, participou ativamente dos sequestros e assassinatos das vítimas. Seu caso causou grande revolta pública no Reino Unido. Morreu na prisão em 2002."
     },
     {
       "nome": "Paul Bernardo",
       "nascimento": "Ontario, Canada",
-      "imagem1": "../script/img-killers-reais/paul-bernardo-1.jpg",
-      "imagem2": "../script/img-killers-reais/paul-bernardo-2.jpg",
+      "imagem1": "./script/img-killers-reais/paul-bernardo-1.jpg",
+      "imagem2": "./script/img-killers-reais/paul-bernardo-2.jpg",
       "descricao": "Atuando com sua esposa Karla Homolka, sequestrou e assassinou jovens mulheres no Canadá. O casal ficou conhecido como “Ken and Barbie Killers”. Foi condenado à prisão perpétua."
     },
     {
       "nome": "Luis Alfredo G.",
       "nascimento": "Quindío, Colombia",
-      "imagem1": "../script/img-killers-reais/luis-garavito-1.jpg",
-      "imagem2": "../script/img-killers-reais/luis-garavito-2.jpg",
+      "imagem1": "./script/img-killers-reais/luis-garavito-1.jpg",
+      "imagem2": "./script/img-killers-reais/luis-garavito-2.jpg",
       "descricao": "Um dos serial killers mais prolíficos da América Latina, assassinou mais de 100 meninos nos anos 1990. Foi condenado a mais de mil anos de prisão."
     },
     {
       "nome": "Pedro Alonso L.",
       "nascimento": "Tolima, Colombia",
-      "imagem1": "../script/img-killers-reais/pedro-alonso-lopez-1.jpg",
-      "imagem2": "../script/img-killers-reais/pedro-alonso-lopez-2.jpg",
+      "imagem1": "./script/img-killers-reais/pedro-alonso-lopez-1.jpg",
+      "imagem2": "./script/img-killers-reais/pedro-alonso-lopez-2.jpg",
       "descricao": "Conhecido como “Monstro dos Andes”, confessou ter matado mais de 300 meninas na Colômbia, Peru e Equador. Foi libertado anos depois, gerando controvérsia."
     },
     {
       "nome": "Anatoly Onoprienko",
       "nascimento": "Ucrânia",
-      "imagem1": "../script/img-killers-reais/anatoly-onoprienko-1.jpg",
-      "imagem2": "../script/img-killers-reais/anatoly-onoprienko-2.jpg",
+      "imagem1": "./script/img-killers-reais/anatoly-onoprienko-1.jpg",
+      "imagem2": "./script/img-killers-reais/anatoly-onoprienko-2.jpg",
       "descricao": "Matou pelo menos 52 pessoas na década de 1990, invadindo casas e assassinando famílias inteiras. Foi condenado à prisão perpétua."
     },
     {
       "nome": "Richard Kuklinski",
       "nascimento": "New Jersey, USA",
-      "imagem1": "../script/img-killers-reais/richard-kuklinski-1.jpg",
-      "imagem2": "../script/img-killers-reais/richard-kuklinski-2.jpg",
+      "imagem1": "./script/img-killers-reais/richard-kuklinski-1.jpg",
+      "imagem2": "./script/img-killers-reais/richard-kuklinski-2.jpg",
       "descricao": "Conhecido como “The Iceman”, era assassino de aluguel ligado ao crime organizado. Alegava ter cometido mais de 100 assassinatos. Foi condenado à prisão perpétua."
     },
     {
       "nome": "Samuel Little",
       "nascimento": "Georgia, USA",
-      "imagem1": "../script/img-killers-reais/samuel-little-1.jpg",
-      "imagem2": "../script/img-killers-reais/samuel-little-2.jpg",
+      "imagem1": "./script/img-killers-reais/samuel-little-1.jpg",
+      "imagem2": "./script/img-killers-reais/samuel-little-2.jpg",
       "descricao": "Considerado o serial killer mais prolífico da história dos EUA, confessou mais de 90 assassinatos, principalmente de mulheres vulneráveis. Morreu na prisão em 2020."
     },
     {
       "nome": "Israel Keyes",
       "nascimento": "Utah, USA",
-      "imagem1": "../script/img-killers-reais/israel-keyes-1.jpg",
-      "imagem2": "../script/img-killers-reais/israel-keyes-2.jpg",
+      "imagem1": "./script/img-killers-reais/israel-keyes-1.jpg",
+      "imagem2": "./script/img-killers-reais/israel-keyes-2.jpg",
       "descricao": "Planejava seus crimes com antecedência e escondia “kits de assassinato” em diferentes estados. Confessou vários homicídios antes de cometer suicídio na prisão."
     },
     {
       "nome": "Harold Shipman",
       "nascimento": "Nottingham, Inglaterra",
-      "imagem1": "../script/img-killers-reais/harold-shipman-1.jpg",
-      "imagem2": "../script/img-killers-reais/harold-shipman-2.jpg",
+      "imagem1": "./script/img-killers-reais/harold-shipman-1.jpg",
+      "imagem2": "./script/img-killers-reais/harold-shipman-2.jpg",
       "descricao": "Médico britânico responsável por matar centenas de pacientes idosos com injeções letais. Foi condenado à prisão perpétua e morreu na prisão em 2004."
     },
     {
       "nome": "Henry Lee Lucas",
       "nascimento": "Virginia, USA",
-      "imagem1": "../script/img-killers-reais/henry-lee-lucas-1.jpg",
-      "imagem2": "../script/img-killers-reais/henry-lee-lucas-2.jpg",
+      "imagem1": "./script/img-killers-reais/henry-lee-lucas-1.jpg",
+      "imagem2": "./script/img-killers-reais/henry-lee-lucas-2.jpg",
       "descricao": "Confessou centenas de assassinatos, embora muitos tenham sido considerados falsos. Ainda assim, foi condenado por diversos homicídios e morreu na prisão em 2001."
     }
   ],
@@ -251,169 +251,169 @@
     {
       "nome": "Hannibal Lecter",
       "nascimento": "Hannibal",
-      "imagem1": "../script/img-killers-cinema/hannibal-lecter-1.jpg",
-      "imagem2": "../script/img-killers-cinema/hannibal-lecter-2.jpg",
+      "imagem1": "./script/img-killers-cinema/hannibal-lecter-1.jpg",
+      "imagem2": "./script/img-killers-cinema/hannibal-lecter-2.jpg",
       "descricao": "Criado por Thomas Harris e famoso no filme O Silêncio dos Inocentes, Hannibal Lecter é um psiquiatra brilhante e extremamente educado, mas também um canibal. Ele assassina pessoas que considera rudes ou moralmente inferiores. Hannibal é manipulador, inteligente e sempre parece estar vários passos à frente de todos. Seu charme e sofisticação tornam seus crimes ainda mais perturbadores, pois contrastam com a brutalidade de seus atos."
     },
     {
       "nome": "Norman Bates",
       "nascimento": "Psicose",
-      "imagem1": "../script/img-killers-cinema/norman-bates-1.jpg",
-      "imagem2": "../script/img-killers-cinema/norman-bates-2.jpg",
+      "imagem1": "./script/img-killers-cinema/norman-bates-1.jpg",
+      "imagem2": "./script/img-killers-cinema/norman-bates-2.jpg",
       "descricao": "Protagonista de Psycho, Norman é um jovem tímido que vive isolado em um motel. Ele desenvolveu uma personalidade dividida, assumindo a identidade da própria mãe para cometer assassinatos. Sua mente fragmentada o faz alternar entre inocência e violência extrema."
     },
     {
       "nome": "Dexter Morgan",
       "nascimento": "Dexter",
-      "imagem1": "../script/img-killers-cinema/dexter-1.jpg",
-      "imagem2": "../script/img-killers-cinema/dexter-2.jpg",
+      "imagem1": "./script/img-killers-cinema/dexter-1.jpg",
+      "imagem2": "./script/img-killers-cinema/dexter-2.jpg",
       "descricao": "Personagem da série Dexter, Dexter é um analista forense especializado em padrões de sangue que leva uma vida dupla. Durante o dia, trabalha ajudando a polícia a capturar assassinos. À noite, ele próprio se torna um serial killer. Dexter segue um “código” criado por seu pai adotivo, que o ensinou a canalizar seus impulsos homicidas apenas contra criminosos que escaparam da justiça. Ele escolhe suas vítimas com cuidado, investiga suas histórias e coleta provas antes de agir."
     },
     {
       "nome": "Michael Myers",
       "nascimento": "Halloween",
-      "imagem1": "../script/img-killers-cinema/michael-myers-1.jpg",
-      "imagem2": "../script/img-killers-cinema/michael-myers-2.jpg",
+      "imagem1": "./script/img-killers-cinema/michael-myers-1.jpg",
+      "imagem2": "./script/img-killers-cinema/michael-myers-2.jpg",
       "descricao": "Personagem central da franquia Halloween, Michael Myers começou a matar ainda criança. Após anos internado, escapa e retorna à sua cidade natal, onde passa a perseguir e assassinar jovens. Ele quase nunca fala, não demonstra emoção e parece praticamente indestrutível. Michael é retratado como a personificação do mal puro."
     },
     {
       "nome": "Jason Voorhees",
       "nascimento": "Friday the 13th",
-      "imagem1": "../script/img-killers-cinema/jason-1.jpg",
-      "imagem2": "../script/img-killers-cinema/jason-2.jpg",
+      "imagem1": "./script/img-killers-cinema/jason-1.jpg",
+      "imagem2": "./script/img-killers-cinema/jason-2.jpg",
       "descricao": "Ícone da franquia Friday the 13th, Jason morreu afogado quando criança devido à negligência de monitores. Anos depois, retorna como um assassino que busca vingança. Ele elimina qualquer um que entre em seu território. Jason é conhecido por usar máscara de hóquei e armas brancas, especialmente facões."
     },
     {
       "nome": "Freddy Krueger",
       "nascimento": "A Nightmare on Elm Street",
-      "imagem1": "../script/img-killers-cinema/freddy-krurger-1.jpg",
-      "imagem2": "../script/img-killers-cinema/freddy-krurger-2.jpg",
+      "imagem1": "./script/img-killers-cinema/freddy-krurger-1.jpg",
+      "imagem2": "./script/img-killers-cinema/freddy-krurger-2.jpg",
       "descricao": "Vilão da série A Nightmare on Elm Street, Freddy ataca suas vítimas dentro dos sonhos. Ele foi um assassino de crianças em vida e voltou como um demônio dos pesadelos após ser queimado vivo. Seu poder cresce com o medo, tornando-o quase impossível de derrotar."
     },
     {
       "nome": "Patrick Bateman",
       "nascimento": "American Psycho",
-      "imagem1": "../script/img-killers-cinema/patrick-bateman-1.jpg",
-      "imagem2": "../script/img-killers-cinema/patrick-bateman-2.jpg",
+      "imagem1": "./script/img-killers-cinema/patrick-bateman-1.jpg",
+      "imagem2": "./script/img-killers-cinema/patrick-bateman-2.jpg",
       "descricao": "Personagem principal de American Psycho, Patrick é um executivo rico que esconde sua psicopatia atrás de uma imagem perfeita. Ele comete assassinatos brutais enquanto mantém uma rotina de luxo e aparência impecável. Representa uma crítica à superficialidade e ao vazio moral."
     },
     {
       "nome": "Ghostface",
       "nascimento": "Scream",
-      "imagem1": "../script/img-killers-cinema/ghostface-1.jpg",
-      "imagem2": "../script/img-killers-cinema/ghostface-2.jpg",
+      "imagem1": "./script/img-killers-cinema/ghostface-1.jpg",
+      "imagem2": "./script/img-killers-cinema/ghostface-2.jpg",
       "descricao": "Figura central da franquia Scream, Ghostface não é uma pessoa única, mas um manto usado por diferentes assassinos. Eles usam máscaras e exploram clichês de filmes de terror. O assassino costuma provocar suas vítimas por telefone antes de atacar."
     },
     {
       "nome": "Jigsaw",
       "nascimento": "Saw",
-      "imagem1": "../script/img-killers-cinema/jigsaw-1.jpg",
-      "imagem2": "../script/img-killers-cinema/jigsaw-2.jpg",
+      "imagem1": "./script/img-killers-cinema/jigsaw-1.jpg",
+      "imagem2": "./script/img-killers-cinema/jigsaw-2.jpg",
       "descricao": "Vilão da franquia Saw, Jigsaw não mata diretamente, mas cria armadilhas mortais. Ele acredita estar “ensinando” as pessoas a valorizar a vida. Seus testes são psicológicos e extremamente violentos."
     },
      {
       "nome": "Pennywise",
       "nascimento": "It",
-      "imagem1": "../script/img-killers-cinema/pennywise-1.jpg",
-      "imagem2": "../script/img-killers-cinema/pennywise-2.jpg",
+      "imagem1": "./script/img-killers-cinema/pennywise-1.jpg",
+      "imagem2": "./script/img-killers-cinema/pennywise-2.jpg",
       "descricao": "Vilão de It, Pennywise é uma entidade que assume a forma de palhaço. Ele se alimenta do medo, principalmente de crianças. Pode mudar de forma para explorar os piores traumas das vítimas."
     },
     {
       "nome": "Light Yagami",
       "nascimento": "Death Note",
-      "imagem1": "../script/img-killers-cinema/light-yagami-1.jpg",
-      "imagem2": "../script/img-killers-cinema/light-yagami-2.jpg",
+      "imagem1": "./script/img-killers-cinema/light-yagami-1.jpg",
+      "imagem2": "./script/img-killers-cinema/light-yagami-2.jpg",
       "descricao": "Personagem de Death Note, Light encontra um caderno que mata qualquer pessoa cujo nome seja escrito nele. Decide se tornar o “deus” de um novo mundo sem criminosos. Aos poucos, se transforma em um tirano frio e manipulador."
     },
     {
       "nome": "Leatherface",
       "nascimento": "The Texas Chainsaw Massacre",
-      "imagem1": "../script/img-killers-cinema/leatherface-1.jpg",
-      "imagem2": "../script/img-killers-cinema/leatherface-2.jpg",
+      "imagem1": "./script/img-killers-cinema/leatherface-1.jpg",
+      "imagem2": "./script/img-killers-cinema/leatherface-2.jpg",
       "descricao": "Vilão da franquia The Texas Chainsaw Massacre, Leatherface faz parte de uma família canibal que vive isolada no interior do Texas. Ele usa máscaras feitas com pele humana e empunha uma motosserra como sua principal arma. Apesar da brutalidade extrema, muitas versões do personagem mostram que ele age sob influência e controle de sua família. Leatherface representa o horror visceral e a violência crua do terror slasher clássico."
     },
     {
       "nome": "Chucky",
       "nascimento": "Child's Play",
-      "imagem1": "../script/img-killers-cinema/chucky-1.jpg",
-      "imagem2": "../script/img-killers-cinema/chucky-2.jpeg",
+      "imagem1": "./script/img-killers-cinema/chucky-1.jpg",
+      "imagem2": "./script/img-killers-cinema/chucky-2.jpeg",
       "descricao": "Chucky é a forma possuída do serial killer Charles Lee Ray, que transfere sua alma para um boneco através de um ritual de vodu. A partir disso, passa a cometer assassinatos enquanto tenta recuperar um corpo humano. Apesar do tamanho pequeno e aparência inofensiva, é extremamente sádico, sarcástico e imprevisível. Sua combinação de humor ácido e violência brutal o tornou um dos vilões mais icônicos do terror."
     },
     {
       "nome": "Annie Wilkes",
       "nascimento": "Misery",
-      "imagem1": "../script/img-killers-cinema/annie-wilkes-1.jpg",
-      "imagem2": "../script/img-killers-cinema/annie-wilkes-2.jpg",
+      "imagem1": "./script/img-killers-cinema/annie-wilkes-1.jpg",
+      "imagem2": "./script/img-killers-cinema/annie-wilkes-2.jpg",
       "descricao": "Personagem do romance Misery, Annie é uma ex-enfermeira aparentemente gentil, mas psicologicamente instável. Após resgatar seu escritor favorito de um acidente, ela o mantém em cativeiro quando descobre que ele pretende matar sua personagem favorita nos livros. Extremamente obsessiva e manipuladora, Annie alterna entre cuidado e violência brutal. Sua imprevisibilidade torna cada interação tensa e assustadora."
     },
     {
       "nome": "Esther Coleman",
       "nascimento": "Orphan",
-      "imagem1": "../script/img-killers-cinema/esther-1.jpg",
-      "imagem2": "../script/img-killers-cinema/esther-2.jpg",
+      "imagem1": "./script/img-killers-cinema/esther-1.jpg",
+      "imagem2": "./script/img-killers-cinema/esther-2.jpg",
       "descricao": "Esther aparenta ser uma criança adotada inocente, mas na verdade é uma mulher adulta com uma condição rara que impede seu crescimento físico. Extremamente inteligente e manipuladora, infiltra-se em famílias para causar caos e eliminar qualquer um que ameace sua farsa. Sua frieza e capacidade de fingir vulnerabilidade tornam seus crimes ainda mais perturbadores."
     },
     {
       "nome": "John Kramer",
       "nascimento": "Saw",
-      "imagem1": "../script/img-killers-cinema/john-kramer-1.jpg",
-      "imagem2": "../script/img-killers-cinema/john-kramer-2.jpg",
+      "imagem1": "./script/img-killers-cinema/john-kramer-1.jpg",
+      "imagem2": "./script/img-killers-cinema/john-kramer-2.jpg",
       "descricao": "John Kramer é o verdadeiro homem por trás do legado de Jigsaw. Diagnosticado com câncer terminal, passa a criar armadilhas mortais para testar o instinto de sobrevivência de suas vítimas. Ele acredita que apenas enfrentando a morte as pessoas podem valorizar a vida. Inteligente e meticuloso, manipula eventos mesmo após sua morte através de aprendizes e planos complexos."
     },
     {
       "nome": "Art the Clown",
       "nascimento": "Terrifier",
-      "imagem1": "../script/img-killers-cinema/art-the-clown-1.jpg",
-      "imagem2": "../script/img-killers-cinema/art-the-clown-2.jpg",
+      "imagem1": "./script/img-killers-cinema/art-the-clown-1.jpg",
+      "imagem2": "./script/img-killers-cinema/art-the-clown-2.jpg",
       "descricao": "Art the Clown é um assassino sádico que não fala e demonstra prazer extremo na dor de suas vítimas. Diferente de outros vilões sobrenaturais, sua motivação é puramente caótica e cruel. Ele usa ferramentas improvisadas e métodos brutais para torturar suas vítimas, mantendo sempre uma expressão silenciosamente zombeteira."
     },
     {
       "nome": "Candyman",
       "nascimento": "Candyman",
-      "imagem1": "../script/img-killers-cinema/candyman-1.png",
-      "imagem2": "../script/img-killers-cinema/candyman-2.jpg",
+      "imagem1": "./script/img-killers-cinema/candyman-1.png",
+      "imagem2": "./script/img-killers-cinema/candyman-2.jpg",
       "descricao": "Candyman é uma entidade urbana invocada ao dizer seu nome cinco vezes diante de um espelho. Originalmente um artista injustiçado que foi brutalmente assassinado, retorna como espírito vingativo. Ele aparece com um gancho no lugar da mão e executa suas vítimas de forma violenta. Representa lendas urbanas e traumas sociais."
     },
     {
       "nome": "Billy Loomis",
       "nascimento": "Scream",
-      "imagem1": "../script/img-killers-cinema/billy-loomis-1.jpg",
-      "imagem2": "../script/img-killers-cinema/billy-loomis-2.jpg",
+      "imagem1": "./script/img-killers-cinema/billy-loomis-1.jpg",
+      "imagem2": "./script/img-killers-cinema/billy-loomis-2.jpg",
       "descricao": "Billy Loomis é um dos primeiros assassinos a usar a identidade de Ghostface. Inteligente e manipulador, ele cria um plano elaborado para culpar outras pessoas por seus crimes. Sua motivação envolve vingança pessoal e desejo de protagonismo dentro de uma narrativa de terror."
     },
     {
       "nome": "Stu Macher",
       "nascimento": "Scream",
-      "imagem1": "../script/img-killers-cinema/stu-macher-1.jpg",
-      "imagem2": "../script/img-killers-cinema/stu-macher-2.jpg",
+      "imagem1": "./script/img-killers-cinema/stu-macher-1.jpg",
+      "imagem2": "./script/img-killers-cinema/stu-macher-2.jpg",
       "descricao": "Parceiro de Billy Loomis, Stu participa da sequência de assassinatos em Scream. Diferente de Billy, demonstra comportamento mais impulsivo e instável. Age muitas vezes por influência e excitação, revelando prazer na violência e no caos."
     },
     {
       "nome": "The Grabber",
       "nascimento": "The Black Phone",
-      "imagem1": "../script/img-killers-cinema/the-grabber-1.jpg",
-      "imagem2": "../script/img-killers-cinema/the-grabber-2.jpg",
+      "imagem1": "./script/img-killers-cinema/the-grabber-1.jpg",
+      "imagem2": "./script/img-killers-cinema/the-grabber-2.jpg",
       "descricao": "Vilão do filme The Black Phone, o Grabber é um sequestrador de crianças que as mantém presas em um porão à prova de som. Ele utiliza máscaras diferentes para representar suas mudanças de humor e manipulação psicológica. Seu comportamento alterna entre fingida gentileza e ameaça extrema."
     },
     {
       "nome": "Alex DeLarge",
       "nascimento": "A Clockwork Orange",
-      "imagem1": "../script/img-killers-cinema/alex-delarge-1.jpg",
-      "imagem2": "../script/img-killers-cinema/alex-delarge-2.jpg",
+      "imagem1": "./script/img-killers-cinema/alex-delarge-1.jpg",
+      "imagem2": "./script/img-killers-cinema/alex-delarge-2.jpg",
       "descricao": "Protagonista de A Clockwork Orange, Alex DeLarge é um jovem extremamente violento que lidera um grupo de delinquentes envolvidos em agressões e assassinatos. Inteligente e carismático, ele aprecia música clássica enquanto pratica atos brutais. Após ser preso, é submetido a um experimento de condicionamento psicológico que remove sua capacidade de escolher a violência, levantando questões sobre livre-arbítrio e moralidade."
     },
     {
       "nome": "Brandon Breyer",
       "nascimento": "Brightburn",
-      "imagem1": "../script/img-killers-cinema/brandon-breyer-1.jpg",
-      "imagem2": "../script/img-killers-cinema/brandon-breyer-2.jpg",
+      "imagem1": "./script/img-killers-cinema/brandon-breyer-1.jpg",
+      "imagem2": "./script/img-killers-cinema/brandon-breyer-2.jpg",
       "descricao": "Brandon Breyer é o protagonista sombrio de Brightburn. Criado como um garoto aparentemente comum, descobre possuir habilidades sobre-humanas semelhantes às de um super-herói. No entanto, em vez de usar seus poderes para o bem, desenvolve uma personalidade fria e dominante, eliminando qualquer pessoa que o desafie. Ele representa a ideia de um Superman transformado em vilão."
     },
     {
       "nome": "Mrs. Lovett",
       "nascimento": "Sweeney Todd",
-      "imagem1": "../script/img-killers-cinema/mrs-lovett-1.jpg",
-      "imagem2": "../script/img-killers-cinema/mrs-lovett-2.jpg",
+      "imagem1": "./script/img-killers-cinema/mrs-lovett-1.jpg",
+      "imagem2": "./script/img-killers-cinema/mrs-lovett-2.jpg",
       "descricao": "Mrs. Lovett é cúmplice de Sweeney Todd na história Sweeney Todd. Ela transforma as vítimas assassinadas em recheio de tortas vendidas em sua confeitaria. Astuta e prática, ajuda a esconder os crimes enquanto demonstra ambição e desejo por prosperidade. Sua participação ativa nos assassinatos a coloca como parte essencial do ciclo de violência da trama."
     }
   ]

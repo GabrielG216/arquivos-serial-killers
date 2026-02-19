@@ -20,7 +20,7 @@ let personsData = {};
 let tipoAtual = 'reais';
 
 // Carregar dados do JSON
-fetch('../script/persons.json')
+fetch('./script/persons.json')
     .then(response => response.json())
     .then(data => {
         personsData = data;
